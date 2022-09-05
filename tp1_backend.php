@@ -77,7 +77,7 @@
        $radio = 30;
        $pi = 3.14;
        $pe = 2*$pi * $radio;
-       echo $pe
+       echo $pe;
         ?>
         <br>
        Área:
